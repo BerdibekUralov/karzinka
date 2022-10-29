@@ -1,2 +1,2 @@
 # js_practise_starter_file
-JavaScript tutorial for begginers starter file
+Учебник по JavaScript для начинающих. Стартовый файл
